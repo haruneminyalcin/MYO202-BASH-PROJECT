@@ -2,8 +2,8 @@
 
 # Harun Emin Yalçın
 # 2420171034
-# https://www.btkakademi.gov.tr/portal/certificate/view?hashId=vpWcn6g6n7
-# https://www.btkakademi.gov.tr/portal/certificate/view?hashId=9XrtzXgX2d
+# https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=vpWcn6g6n7
+# https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=9XrtzXgX2d
 # https://www.techcareer.net/en/courses/linux-bash-script-egitimi/b6746aa8-2168-4daa-9f62-ba5176b4482a
 
 # Log dosyasini baslatip tarihi yaziyoruz
